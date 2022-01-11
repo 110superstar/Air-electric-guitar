@@ -1,6 +1,6 @@
 # Air-electric-guitar
 
-* rock 1 to change mode
+* rock1 to change mode
 
 * download the audio package --> pip install playsound==1.2.2
 
