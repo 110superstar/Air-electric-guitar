@@ -1,6 +1,8 @@
 # Air-electric-guitar (Air guitar)
 Let's play music !
 
+# Youtube demo
+https://youtu.be/FmLn2DqIV3A?si=xkmsKYtZgXeriH67
 
 ## Getting started
 
