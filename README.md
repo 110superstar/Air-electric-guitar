@@ -1,4 +1,4 @@
-# Air-electric-guitar
+# Air-electric-guitar (Air guitar)
 Let's play music !
 
 
